@@ -1,0 +1,103 @@
+---
+tipo: "indice"
+tags:
+  - "glossario"
+---
+
+# Glossário de Termos
+
+93 termos digitais.
+
+- [[ABNT NBR ISO-IEC 27037|ABNT NBR ISO/IEC 27037]]: Norma técnica com diretrizes para identificação, coleta, aquisição e preservação de evidência digital.
+- [[ABNT NBR ISO-IEC 27042|ABNT NBR ISO/IEC 27042]]: Norma técnica com diretrizes para análise e interpretação de evidência digital.
+- [[ADB|ADB]]: Android Debug Bridge, interface de comunicação com o aparelho por computador.
+- [[Administrador de sistema autônomo|Administrador de sistema autônomo]]: Pessoa física ou jurídica que administra blocos de endereço IP específicos e o respectivo sistema autônomo de roteamento, cadastrada no ente nacional responsável pelo registro e pela distribuição de endereços IP referentes ao País [Lei 12.965/2014, art. 5º, IV].
+- [[Aplicações de internet|Aplicações de internet]]: Conjunto de funcionalidades acessadas por meio de um terminal conectado à internet [Lei 12.965/2014, art. 5º, VII].
+- [[Assinatura digital|Assinatura digital]]: Mecanismo criptográfico que vincula um documento ou arquivo a seu autor e permite verificar se o conteúdo foi alterado após a assinatura; distingue-se da assinatura eletrônica simples por empregar certificação com chave criptográfica.
+- [[Auditabilidade|Auditabilidade]]: Propriedade de um conjunto de dados ou de um procedimento que permite a terceiro, mediante exame técnico independente, verificar a correção e a integridade das etapas realizadas.
+- [[Autenticidade|Autenticidade]]: Garantia de que o documento digital mantém inalteradas sua origem e identidade institucional.
+- [[Autopsy|Autopsy]]: Plataforma de código aberto de análise forense digital com interface gráfica, desenvolvida pela Basis Technology.
+- [[Azimute|Azimute]]: Ângulo, em graus, da direção para a qual o setor da antena aponta.
+- [[BitLocker|BitLocker]]: Recurso de cifragem de volume inteiro do Microsoft Windows.
+- [[Bloqueador de escrita (write blocker)|Bloqueador de escrita [write blocker]]]: Mecanismo de hardware ou de software que bloqueia os comandos de gravação enviados ao dispositivo de armazenamento e preserva a mídia original durante a cópia forense.
+- [[Busca reversa|Busca reversa]]: Consulta sobre os aparelhos que passaram por uma ou mais ERBs em certo período, que atinge terceiros indeterminados e exige minimização.
+- [[Busca simultânea|Busca simultânea]]: Recurso do X-Ways Forensics que procura cadeias de texto em ANSI, UTF-8 e UTF-16 diretamente na evidência, dispensado o pré-processamento.
+- [[Cadeia de custódia (cadeia de custódia informacional)|Cadeia de custódia [cadeia de custódia informacional]]]: Conjunto de procedimentos que documenta a história cronológica do vestígio [posse, manuseio, coleta, guarda e análise], do reconhecimento ao descarte, e preserva a rastreabilidade do vestígio, para garantir a integridade, a idoneidade e a autenticidade da prova [CPP, arts. 158-A a 158-F, incluídos pela Lei 13.964/2019]. Por analogia, aplica-se à prova financeira como cadeia de custódia informacional: registro contínuo do trânsito da informação, desde a produção pelo setor obrigado até a juntada aos autos, com identificação dos agentes intervenientes.
+- [[Caducidade do requerimento|Caducidade do requerimento]]: Perda de eficácia do requerimento de guarda cautelar pelo indeferimento do pedido de autorização judicial ou pela falta de protocolo do pedido em 60 dias.
+- [[Caixa-preta|Caixa-preta]]: Sistema que entrega um resultado e mantém oculto o caminho até o resultado.
+- [[Carving|Carving]]: Técnica de recuperação de arquivos a partir de assinaturas de conteúdo, no espaço bruto da mídia, independente da estrutura do sistema de arquivos.
+- [[Certificado digital|Certificado digital]]: Documento eletrônico que associa uma chave criptográfica a uma pessoa física, jurídica ou dispositivo, emitido por autoridade certificadora, utilizado para assinatura digital e autenticação.
+- [[Certificate pinning|Certificate pinning]]: Fixação do certificado esperado do servidor, que bloqueia a interceptação do tráfego.
+- [[CFTV|CFTV]]: Circuito fechado de televisão; sistema de videomonitoramento cujas imagens exigem extração forense do gravador.
+- [[Closed-box|Closed-box]]: Termo do NIST para o sistema opaco [caixa-preta].
+- [[Cobertura|Cobertura]]: Porção de território alcançada pelo sinal de um setor, de forma irregular, condicionada por potência, relevo e obstáculos.
+- [[Conexão à internet|Conexão à internet]]: Habilitação de um terminal para envio e recebimento de pacotes de dados pela internet, mediante atribuição ou autenticação de um endereço IP [Lei 12.965/2014, art. 5º, V].
+- [[Congelamento|Congelamento]]: Expressão forense para o requerimento de guarda cautelar de registros de conexão ou de acesso a aplicações, formulado por autoridade policial, autoridade administrativa ou Ministério Público ao provedor.
+- [[CSRF|CSRF]]: Falha que permite forçar ação do usuário autenticado à revelia do usuário.
+- [[Célula|Célula]]: Área de cobertura de um setor de antena, com alcance de centenas de metros na cidade a dezenas de quilômetros no campo.
+- [[Célula servidora|Célula servidora]]: ERB que atende o aparelho em determinado instante, escolhida pela rede segundo sinal e carga.
+- [[Dado pessoal sensível|Dado pessoal sensível]]: Categoria de dado pessoal listada no art. 5º, II, da Lei 13.709/2018 [LGPD], sujeita a regime de tratamento mais restritivo, como o dado referente a origem racial ou étnica, convicção religiosa, opinião política e saúde.
+- [[Dados cadastrais|Dados cadastrais]]: Informações de qualificação pessoal, filiação e endereço do usuário de um serviço.
+- [[Dados de conexão e de conteúdo|Dados de conexão e de conteúdo]]: Dado de conexão é o registro de que houve comunicação [antena, horário]. Dado de conteúdo é o que foi dito ou trocado, cujo acesso exige autorização específica e mais estrita.
+- [[Degradação temporal|Degradação temporal]]: Fenômeno pelo qual a confiabilidade de um vestígio digital diminui com o decurso do tempo entre a sua geração e a sua coleta ou preservação, em razão de sobrescrição de dados, atualizações de sistema ou exclusão por rotina de armazenamento.
+- [[Endereço IP|Endereço IP]]: Número que identifica o terminal na internet, registrado no momento da conexão ou do uso de uma aplicação.
+- [[ERB (estação rádio base)|ERB [estação rádio base]]]: Antena de telefonia móvel instalada em torre, prédio ou poste, que atende os aparelhos em uma área ao redor e gera o registro técnico da conexão, pelo qual se situa o terminal.
+- [[Espaço livre|Espaço livre]]: Área do volume marcada como disponível para gravação que retém dados de arquivos apagados.
+- [[Espelhamento de WhatsApp Web|Espelhamento de WhatsApp Web]]: Técnica de acesso a conversas por meio da sessão web vinculada ao aparelho, que permite o envio e a exclusão de mensagens sem rastro verificável. Distingue-se da duplicação forense de mídia [ver Imagem forense].
+- [[Exportação de chat (WhatsApp)|Exportação de chat [WhatsApp]]]: Recurso nativo do WhatsApp que gera um arquivo .txt [sem mídia] ou .zip [com mídia] com o histórico de mensagens de uma conversa, distinto da extração forense de dispositivo e do espelhamento de sessão.
+- [[Fistel|Fistel]]: Número de registro da estação na Anatel [Fundo de Fiscalização das Telecomunicações], que identifica a outorga e serve à conferência da autenticidade do dado.
+- [[Geolocalização|Geolocalização]]: Determinação da posição de um dispositivo, aproximada quando obtida por ERB e métrica quando obtida por GPS.
+- [[Geotag|Geotag]]: Metadado que registra a localização geográfica [coordenadas] em que um arquivo digital, como fotografia ou vídeo, foi criado, normalmente gerado automaticamente pelo dispositivo de captura.
+- [[GPS|GPS]]: Sistema de posicionamento por satélite, com coordenadas de erro reduzido, distinto do dado de ERB.
+- [[Guarda cautelar|Guarda cautelar]]: Conservação dos registros por prazo superior ao legal, requerida pela autoridade ao provedor antes da ordem judicial de acesso.
+- [[Handover|Handover]]: Troca automática de uma célula para outra enquanto o aparelho se desloca ou a rede se reorganiza.
+- [[Hash (função hash; código hash)|Hash [função hash; código hash]]]: Valor de tamanho fixo [resumo criptográfico] calculado por função criptográfica sobre arquivo, conjunto de dados, mídia ou imagem forense: sequência alfanumérica única que funciona como impressão digital do conteúdo. Qualquer alteração no conteúdo produz hash diferente, o que permite verificar a integridade e a mesmidade do material ao longo da cadeia de custódia. O algoritmo que gera o valor é a função hash.
+- [[Hash de eliminação|Hash de eliminação]]: Base de somas de verificação dos arquivos do sistema instalado, usada para excluir da análise os arquivos conhecidos.
+- [[Hiberfil.sys e Pagefile.sys|Hiberfil.sys e Pagefile.sys]]: Arquivos do Windows que armazenam o conteúdo da memória durante a hibernação e a paginação.
+- [[IA explicável (XAI)|IA explicável [XAI]]]: Sistema que dá resultado e mostra o raciocínio, de forma conferível.
+- [[Imagem forense (cópia espelhada; espelhamento; cópia bit a bit)|Imagem forense [cópia espelhada; espelhamento; cópia bit a bit]]]: Arquivo que reproduz, em cópia bit a bit, integral e verificável, o conteúdo da mídia ou do dispositivo de armazenamento, incluídos os espaços não alocados. O exame pericial recai sobre a cópia, preservado o original. Distingue-se do espelhamento de WhatsApp Web.
+- [[IMEI|IMEI]]: Identificador do aparelho, que persiste à troca de chip.
+- [[IMSI e SIM (chip)|IMSI e SIM [chip]]]: O IMSI identifica a linha e o SIM é o chip físico. O registro atesta aparelho e chip, e a identidade do portador depende de outra prova.
+- [[Indexação|Indexação]]: Atribuição sistemática de palavras-chave e descritores para recuperação célere de dados.
+- [[Interpretabilidade|Interpretabilidade]]: Propriedade do modelo cuja lógica se compreende pela própria estrutura, dispensada explicação externa.
+- [[IOC|IOC]]: Indicador de comprometimento: assinatura que identifica pacote ou domínio malicioso.
+- [[Justificabilidade|Justificabilidade]]: Atributo da evidência digital pelo qual o responsável demonstra a razão de cada método e de cada ação adotados no tratamento do vestígio.
+- [[Lacre|Lacre]]: Dispositivo de segurança aplicado a um bem apreendido ou a um invólucro que o contém, destinado a evidenciar violação quando rompido, utilizado como mecanismo de controle da cadeia de custódia.
+- [[Latitude e longitude|Latitude e longitude]]: Coordenadas geográficas de um ponto. No registro de ERB, as coordenadas localizam a antena.
+- [[Laudo pericial|Laudo pericial]]: Documento técnico produzido por perito, oficial ou nomeado, que registra a metodologia empregada, as etapas realizadas e as conclusões alcançadas no exame de um vestígio ou elemento probatório.
+- [[Live Session|Live Session]]: Sessão de sistema operacional executada a partir de mídia removível, com a memória do computador como área de trabalho.
+- [[Marco Civil da Internet|Marco Civil da Internet]]: Lei 12.965/2014, que disciplina a guarda e a entrega de registros por provedores mediante ordem judicial [arts. 22 e 23].
+- [[Mesmidade|Mesmidade]]: Identidade entre o vestígio coletado e o vestígio apresentado ao juiz: o vestígio ou a cópia de dados corresponde ao material originalmente coletado, sem acréscimo, subtração ou alteração. A correspondência é atestada por mecanismos técnicos, como o hash.
+- [[Metadados|Metadados]]: [1] Acepção forense: conjunto de informações associadas a um arquivo digital que descrevem suas características e seu histórico [data e hora de criação, dispositivo de origem, geolocalização, histórico de modificações, software utilizado]. [2] Acepção de gestão documental: dado estruturado destinado a classificar, descrever e gerenciar documentos e processos nos sistemas informatizados.
+- [[Metadados administrativos|Metadados administrativos]]: Metadados que informam como e quando o recurso foi criado e auxiliam a sua gestão [NISO Press, 2004].
+- [[Metadados descritivos|Metadados descritivos]]: Metadados que servem à descoberta e à identificação do recurso [NISO Press, 2004].
+- [[Metadados estruturais|Metadados estruturais]]: Metadados que indicam como objetos compostos se organizam [NISO Press, 2004].
+- [[$MFT|$MFT]]: Tabela mestra de arquivos do NTFS, que registra os arquivos e diretórios do volume.
+- [[MIME|MIME]]: Padrão de identificação de tipo de arquivo por assinatura de conteúdo.
+- [[Minimização|Minimização]]: Coleta pelo mínimo necessário, com anonimização inicial e filtragem progressiva, que limita o alcance da busca reversa.
+- [[Modo de navegação privada|Modo de navegação privada]]: Função do navegador que suprime o armazenamento, no dispositivo, dos dados das ações de navegação do usuário, com os nomes Incognito, InPrivate e janela privada.
+- [[Modo Persistente|Modo Persistente]]: Modo de inicialização do PALADIN que usa um volume rotulado como writable ou casper-rw para guardar dados.
+- [[NISTIR 8312|NISTIR 8312]]: Documento do NIST que define os 4 princípios da IA explicável.
+- [[Perícia oficial|Perícia oficial]]: Exame técnico realizado por órgão de criminalística vinculado ao Estado, dotado de fé pública quanto aos procedimentos adotados, distinto do exame realizado por assistente técnico da parte.
+- [[Printscreen (captura de tela)|Printscreen [captura de tela]]]: Imagem estática obtida pela captura da tela de um dispositivo no momento da visualização de um conteúdo, desprovida, por si, de metadados que certifiquem a origem e a integridade do conteúdo capturado.
+- [[Processamento client-side (local)|Processamento client-side [local]]]: Execução do código inteiramente no navegador do usuário, com o arquivo de entrada mantido no dispositivo, o que permite auditar a ferramenta pela leitura do código-fonte aberto.
+- [[Programa XAI da DARPA|Programa XAI da DARPA]]: Iniciativa dos Estados Unidos [2016 a 2021] que financiou pesquisas sobre explicabilidade.
+- [[Provedor de aplicações de internet|Provedor de aplicações de internet]]: Pessoa jurídica que oferece aplicação de internet e mantém os registros de acesso dos usuários.
+- [[RDC-Arq|RDC-Arq]]: Repositório Arquivístico Digital Confiável estruturado para assegurar a preservação de dados e o acesso em longo prazo.
+- [[Refine Volume Snapshot|Refine Volume Snapshot]]: Processamento do X-Ways Forensics que descompacta e indexa o volume, ampliando o alcance da busca posterior.
+- [[Registro de conexão|Registro de conexão]]: “O conjunto de informações referentes à data e hora de início e término de uma conexão à internet, sua duração e o endereço IP utilizado pelo terminal para o envio e recebimento de pacotes de dados” [Lei 12.965/2014, art. 5º, VI].
+- [[Registros de acesso a aplicações de internet|Registros de acesso a aplicações de internet]]: “O conjunto de informações referentes à data e hora de uso de uma determinada aplicação de internet a partir de um determinado endereço IP” [Lei 12.965/2014, art. 5º, VIII].
+- [[Repetibilidade|Repetibilidade]]: Atributo da evidência digital pelo qual o mesmo procedimento, com os mesmos instrumentos e nas mesmas condições, produz o mesmo resultado.
+- [[Reprodutibilidade|Reprodutibilidade]]: Atributo da evidência digital pelo qual o mesmo procedimento, com instrumentos diversos e em condições diversas, produz o mesmo resultado.
+- [[Secure Boot|Secure Boot]]: Recurso do firmware UEFI que verifica a assinatura do software de inicialização.
+- [[Setor|Setor]]: Face da antena que irradia em direção específica. Uma ERB costuma ter três setores.
+- [[Sinal|Sinal]]: Posicionamento da estação de cobertura, setorização e intensidade de radiofrequência [CPP, art. 13-B, § 1º].
+- [[Stalkerware|Stalkerware]]: Aplicativo de monitoramento oculto instalado à revelia do titular do aparelho.
+- [[Terminal|Terminal]]: Computador ou dispositivo que se conecta à internet [Lei 12.965/2014, art. 5º, II].
+- [[Triangulação|Triangulação]]: Estimativa de posição a partir do sinal de várias antenas, que refina a área, permanece sujeita a erro e depende de dados da operadora.
+- [[UFED (Universal Forensic Extraction Device)|UFED [Universal Forensic Extraction Device]]]: Ferramenta forense da Cellebrite utilizada para extração de dados de dispositivos móveis, cujos arquivos de saída típicos são o UFD, o UFDX e o UFDR; o módulo UFED Reader permite a visualização do conteúdo extraído sem necessidade da licença completa da ferramenta.
+- [[Vazamento de sessão privada|Vazamento de sessão privada]]: Presença, no dispositivo, de dados da sessão privada recuperáveis por meio de exame forense.
+- [[Vestígio|Vestígio]]: Objeto ou material bruto, visível ou latente, constatado ou recolhido, relacionado à infração penal [CPP, art. 158-A, § 3º].
+- [[Vestígio digital|Vestígio digital]]: Elemento probatório em forma de dado, como o registro de ERB, sujeito à cadeia de custódia.
+- [[Volatilidade|Volatilidade]]: Propriedade do dado digital que desaparece com o desligamento ou com o tempo e impõe ordem de coleta.
+- [[XSS|XSS]]: Falha que permite a execução de código no navegador de quem acessa a página.

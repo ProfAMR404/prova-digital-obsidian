@@ -1,0 +1,55 @@
+---
+tipo: "orgao"
+julgados: "44"
+tags:
+  - "orgao"
+---
+
+# STJ 5ª T.
+
+## Julgados no Painel [44]
+
+- [2] [[STJ - AREsp 3.132.918-RS|STJ, AREsp 3.132.918/RS, Min. Ribeiro Dantas, 5ª T., j. 09/06/2026]]
+- [3] [[STJ - AgRg no AREsp 2.985.235-MT|STJ, AgRg no AREsp 2.985.235/MT, Min. Ribeiro Dantas, 5ª T., j. 09/06/2026]]
+- [4] [[STJ - AgRg no RHC 235.625-SP|STJ, AgRg no RHC 235.625/SP, Min. Reynaldo Soares da Fonseca, 5ª T., j. 27/05/2026]]
+- [5] [[STJ - AREsp 2.967.413-RS|STJ, AREsp 2.967.413/RS, Min. Ribeiro Dantas, 5ª T., j. 09/12/2025]]
+- [6] [[STJ - AgRg no HC 828.054-RN|STJ, AgRg no HC 828.054/RN, Min. Joel Ilan Paciornik, 5ª T., j. 23/04/2024]]
+- [8] [[STJ - AgRg no HC 1.090.663-MS|STJ, AgRg no HC 1.090.663/MS, Min. Reynaldo Soares da Fonseca, 5ª T., j. 15/06/2026]]
+- [9] [[STJ - AgRg no RHC 221.121-DF|STJ, AgRg no RHC 221.121/DF, Min. Ribeiro Dantas, 5ª T., j. 10/12/2025]]
+- [10] [[STJ - AgRg no HC 961.638-RS|STJ, AgRg no HC 961.638/RS, Min. Ribeiro Dantas, 5ª T., j. 26/02/2025]]
+- [12] [[STJ - AgRg no HC 1.029.565-ES|STJ, AgRg no HC 1.029.565/ES, Min. Joel Ilan Paciornik, 5ª T., j. 13/10/2026]]
+- [13] [[STJ - AgRg no RHC 184.003-SP|STJ, AgRg no RHC 184.003/SP, Min. Daniela Teixeira, 5ª T., j. 10/12/2024]]
+- [15] [[STJ - AgRg no AREsp 3.258.001-GO|STJ, AgRg no AREsp 3.258.001/GO, Min. Joel Ilan Paciornik, 5ª T., j. 01/10/2026]]
+- [16] [[STJ - AgRg no AgRg no HC 1.041.340-RS|STJ, AgRg no AgRg no HC 1.041.340/RS, Min. Ribeiro Dantas, 5ª T., j. 15/04/2026]]
+- [17] [[STJ - AgRg no RHC 237.119-MT|STJ, AgRg no RHC 237.119/MT, Min. Reynaldo Soares da Fonseca, 5ª T., j. 12/05/2026]]
+- [18] [[STJ - AgRg no HC 1.063.216-GO|STJ, AgRg no HC 1.063.216/GO, Min. Ribeiro Dantas, 5ª T., j. 15/04/2026]]
+- [19] [[STJ - AgRg no AREsp 3.160.190-SP|STJ, AgRg no AREsp 3.160.190/SP, Min. Joel Ilan Paciornik, 5ª T., j. 06/10/2026]]
+- [22] [[STJ - AREsp 2.972.295-MT|STJ, AREsp 2.972.295/MT, Min. Reynaldo Soares da Fonseca, 5ª T., j. 16/09/2025]]
+- [24] [[STJ - AgRg no AREsp 2.841.690-SP|STJ, AgRg no AREsp 2.841.690/SP, Des. Carlos Cini Marchionatti [Desembargador Convocado do TJRS], 5ª T., j. 17/06/2025]]
+- [26] [[STJ - AgRg nos EDcl no AREsp 2.521.345-RO|STJ, AgRg nos EDcl no AREsp 2.521.345/RO, Min. Ribeiro Dantas, 5ª T., j. 18/06/2024]]
+- [27] [[STJ - AgRg no AREsp 2.441.511-PR|STJ, AgRg no AREsp 2.441.511/PR, Min. Daniela Teixeira, 5ª T., j. 11/06/2024]]
+- [28] [[STJ - AgRg nos EDcl no AREsp 2.342.908-MG|STJ, AgRg nos EDcl no AREsp 2.342.908/MG, Min. Ribeiro Dantas, 5ª T., j. 20/02/2024]]
+- [29] [[STJ - AgRg no RHC 143.169-RJ|STJ, AgRg no RHC 143.169/RJ, Min. Messod Azulay Neto, 5ª T., j. 07/02/2023]]
+- [30] [[STJ - AgRg no HC 752.444-SC|STJ, AgRg no HC 752.444/SC, Min. Ribeiro Dantas, 5ª T., j. 04/10/2022]]
+- [34] [[STJ - AgRg no AREsp 3.307.719-GO|STJ, AgRg no AREsp 3.307.719/GO, Min. Maria Marluce Caldas, 5ª T., j. 20/10/2026]]
+- [35] [[STJ - AgRg no RHC 198.632-SC|STJ, AgRg no RHC 198.632/SC, Min. Joel Ilan Paciornik, 5ª T., j. 04/03/2026]]
+- [38] [[STJ - AgRg no HC 1.090.424-SP|STJ, AgRg no HC 1.090.424/SP, Min. Ribeiro Dantas, 5ª T., j. 15/06/2026]]
+- [39] [[STJ - AgRg no HC 1.050.889-SP|STJ, AgRg no HC 1.050.889/SP, Min. Ribeiro Dantas, 5ª T., j. 29/04/2026]]
+- [40] [[STJ - AgRg no AREsp 3.089.574-DF|STJ, AgRg no AREsp 3.089.574/DF, Min. Maria Marluce Caldas, 5ª T., j. 06/10/2026]]
+- [43] [[STJ - AgRg no HC 1.095.441-MS|STJ, AgRg no HC 1.095.441/MS, Min. Reynaldo Soares da Fonseca, 5ª T., j. 12/08/2026]]
+- [47] [[STJ - AgRg nos EDcl no RHC 222.911-ES|STJ, AgRg nos EDcl no RHC 222.911/ES, Min. Maria Marluce Caldas, 5ª T., j. 25/03/2026]]
+- [48] [[STJ - AgRg no AREsp 3.159.694-SC|STJ, AgRg no AREsp 3.159.694/SC, Min. Reynaldo Soares da Fonseca, 5ª T., j. 10/03/2026]]
+- [49] [[STJ - AgRg no AREsp 2.737.178-RO|STJ, AgRg no AREsp 2.737.178/RO, Min. Messod Azulay Neto, 5ª T., j. 03/02/2026]]
+- [51] [[STJ - AgRg no AREsp 2.858.120-SP|STJ, AgRg no AREsp 2.858.120/SP, Min. Messod Azulay Neto, 5ª T., j. 11/11/2025]]
+- [52] [[STJ - AgRg nos EDcl no AREsp 2.951.541-MG|STJ, AgRg nos EDcl no AREsp 2.951.541/MG, Min. Maria Marluce Caldas, 5ª T., j. 04/11/2025]]
+- [53] [[STJ - AgRg no AREsp 2.957.402-SP|STJ, AgRg no AREsp 2.957.402/SP, Min. Maria Marluce Caldas, 5ª T., j. 04/11/2025]]
+- [54] [[STJ - AgRg nos EDcl no HC 1.032.583-RS|STJ, AgRg nos EDcl no HC 1.032.583/RS, Min. Messod Azulay Neto, 5ª T., j. 29/10/2025]]
+- [55] [[STJ - AgRg no REsp 2.215.383-PR|STJ, AgRg no REsp 2.215.383/PR, Des. Carlos Cini Marchionatti [Desembargador Convocado do TJRS], 5ª T., j. 19/08/2025]]
+- [56] [[STJ - AgRg no HC 996.954-PR|STJ, AgRg no HC 996.954/PR, Min. Reynaldo Soares da Fonseca, 5ª T., j. 28/05/2025]]
+- [61] [[STJ - AgRg no HC 1.073.160-SP|STJ, AgRg no HC 1.073.160/SP, Min. Reynaldo Soares da Fonseca, 5ª T., j. 16/06/2026]]
+- [63] [[STJ - AgRg no HC 1.021.994-RJ|STJ, AgRg no HC 1.021.994/RJ, Min. Joel Ilan Paciornik, 5ª T., j. 15/04/2026]]
+- [64] [[STJ - AgRg no RHC 226.790-SP|STJ, AgRg no RHC 226.790/SP, Min. Messod Azulay Neto, 5ª T., j. 15/04/2026]]
+- [67] [[STJ - AgRg no RHC 193.166-BA|STJ, AgRg no RHC 193.166/BA, Min. Messod Azulay Neto, 5ª T., j. 19/11/2025]]
+- [68] [[STJ - AgRg nos EDcl no HC 948.326-SP|STJ, AgRg nos EDcl no HC 948.326/SP, Min. Ribeiro Dantas, 5ª T., j. 29/10/2025]]
+- [70] [[STJ - AgRg no RHC 205.429-GO|STJ, AgRg no RHC 205.429/GO, Min. Messod Azulay Neto, 5ª T., j. 12/02/2025]]
+- [72] [[STJ - AgRg no AREsp 3.038.419-AM|STJ, AgRg no AREsp 3.038.419/AM, Min. Joel Ilan Paciornik, 5ª T., j. 10/03/2026]]
